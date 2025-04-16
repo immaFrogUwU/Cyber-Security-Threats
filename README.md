@@ -1,6 +1,7 @@
 # Cyber Security Threats
+![image](https://github.com/user-attachments/assets/81fa6e5f-bb67-4918-a2d2-97463faa3ddf)
 
-This repository explores global cyber security threats through interactive data storytelling. Using Python's data science and visualization libraries, the project breaks down complex datasets into clear, compelling insights that highlight the evolving landscape of cyber attacks worldwide.
+This repository explores global cybersecurity threats through interactive data storytelling. Using Python's data science and visualization libraries, the project breaks down complex datasets into clear, compelling insights that highlight the evolving landscape of cyber attacks worldwide. Our goal is to uncover trends, correlations, and potentially build a predictive model to estimate financial losses based on key features.
 
 ## 📁 Contents
 
@@ -12,7 +13,7 @@ This repository explores global cyber security threats through interactive data 
   - Country-by-country threat exposure and impact
 
 - **`Global_Cybersecurity_Threats.xlsx`**  
-  A spreadsheet containing raw data on cyber attacks, including attributes such as country, year, attack type, and incident counts.
+  The Global Cybersecurity Threats Dataset (2015-2024) provides extensive data on cyberattacks, malware types, targeted industries, and affected countries. This dataset, spanning nearly a decade of global cybersecurity threats, includes valuable information on attack types, industries targeted, financial losses, and more. 
 
 ## ✨ Features
 
